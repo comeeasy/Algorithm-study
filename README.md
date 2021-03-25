@@ -6,23 +6,12 @@
 
 나동빈(2020). 이것이 *취업을 위한* 코딩 테스트다:with python. 한빛미디어.
 
-
-### youtube
-https://www.youtube.com/c/dongbinna<br>
-### blog
-https://blog.naver.com/ndb796
-### github
-https://github.com/ndb796
-
 | categ   | address                             |
 | ------- | ----------------------------------- | 
 | youtube | https://www.youtube.com/c/dongbinna |
 | blog    | https://blog.naver.com/ndb796       |
 | github  | https://github.com/ndb796           |
   
-
-
-
 ## team
 
 1. 김준호
