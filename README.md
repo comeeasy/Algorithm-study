@@ -14,6 +14,13 @@ https://blog.naver.com/ndb796
 ### github
 https://github.com/ndb796
 
+| youtube | https://www.youtube.com/c/dongbinna |
+| blog    | https://blog.naver.com/ndb796       |
+| github  | https://github.com/ndb796           |
+  
+
+
+
 ## team
 
 1. 김준호
